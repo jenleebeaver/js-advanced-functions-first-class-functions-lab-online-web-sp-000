@@ -6,3 +6,6 @@ const returnFirstTwoDrivers = function(drivers) {
 };
 
 //2.
+const returnLastTwoDrivers = function(drivers) {
+  return drivers.slice(-2);
+};
