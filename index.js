@@ -11,3 +11,4 @@ const returnLastTwoDrivers = function(drivers) {
 };
 
 //3.
+const selectingDrivers
