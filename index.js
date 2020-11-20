@@ -15,4 +15,4 @@ const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers];
 //array of all drivers
 
 //4.
-const createFareMultiplier = function 
+const createFareMultiplier = function(multiplyValue)
