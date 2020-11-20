@@ -10,4 +10,4 @@ const returnLastTwoDrivers = function(drivers) {
   return drivers.slice(-2);
 };
 
-//3. 
+//3.
