@@ -1,4 +1,6 @@
 // Code your solution in this file!
 
 //1.
-const returnFirstTwoDrivers
+const returnFirstTwoDrivers = function(drivers) {
+  
+}
