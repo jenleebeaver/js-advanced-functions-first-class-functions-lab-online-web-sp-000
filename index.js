@@ -20,3 +20,5 @@ const createFareMultiplier = function(multiplyValue){
     return multiplyValue * value;
   };
 };
+
+//5.
