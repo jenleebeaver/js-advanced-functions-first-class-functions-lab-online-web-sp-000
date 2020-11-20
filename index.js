@@ -26,3 +26,6 @@ const fareDoubler = createFareMultiplier(2);
 
 //6.
 const fareTripler = createFareMultiplier(3);
+
+//7.
+
