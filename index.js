@@ -19,4 +19,4 @@ const createFareMultiplier = function(multiplyValue){
   return function(value){
     return multiplyValue * value;
   };
-}
+};
